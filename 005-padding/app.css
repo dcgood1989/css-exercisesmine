@@ -20,3 +20,18 @@ section {
 }
 
 /* Code Under This Line */
+
+div.foo{
+  padding: 20px
+}
+
+section.center:first-of-type {
+  padding-left: 20px
+}
+
+section.center:nth-of-type(2) {
+  padding-top: 20px;
+  padding-right: 50px;
+  padding-left: 50px;
+  padding-bottom: 50px
+}

@@ -9,6 +9,40 @@ img {
 }
 /* Code Under This Line */
 
+div.a{
+
+  background-color: #FFED5D;
+  width: 720px;
+  height: 250px;
+  margin-left: 25%;
+}
+
+div.b{
+  background-color: #FF7050;
+  margin-right: 25px;
+  margin-left: 25px;
+  margin-top: 18px;
+  height: 75%;
+}
+
+div.c{
+  background-color: #222;
+  height: 120px;
+  margin-right: 18px;
+  margin-left: 18px;
+  margin-top: 20px;
+  margin-bottom: 30px
+
+}
+
+div.d{
+  background-color: #7BBADE;
+  height: 65px;
+  margin-top: 15px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  margin-left: 20px
+}
 /*
   Colors:
   #FFED5D

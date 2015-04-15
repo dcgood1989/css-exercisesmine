@@ -24,3 +24,7 @@ div {
 }
 
 /* Your Code Goes Under This Line */
+
+.column {
+  box-sizing: border-box;
+}
