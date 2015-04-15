@@ -18,9 +18,13 @@ img {
 /* Your Code Goes Under This Line */
 
 .subtle {
-
+  transistion: all 0.5s;
 }
 
 .subtle:hover {
+    box-shadow: 1px 1px 8px 1px #888888;
+    opacity: 0.1;
+
+}
 
 }
